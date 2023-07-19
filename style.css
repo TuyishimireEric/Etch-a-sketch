@@ -5,7 +5,6 @@
 }
 
 body {
-    width: 100vw;
     height: 100vh;
     background-image: url("./images/background.png");
     background-position: center;
@@ -36,6 +35,10 @@ body {
 }
 
 .container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
     width: 62vw;
     height: 78vh;
     padding: 8vh 2vw 16vh;
