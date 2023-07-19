@@ -27,41 +27,29 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Rock-Paper-Scissor <a name="about-project"></a>
-Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken) is a fun and easy hand game that anyone can learn and enjoy. It’s a great way to make minor decisions when you and a friend can’t agree on something, or even just an entertaining way to pass the time. The neat thing about the game is that almost anybody can pick the rules up in a matter of seconds. In this article, we’ll break the game down so that you and a friend can play whenever you’d like.
+# 📖 Etch a Sketch <a name="about-project"></a>
+Etch a Sketch is a simple web-based application that mimics the classic Etch a Sketch toy. It allows users to draw on a virtual canvas using their mouse or touchpad, providing a nostalgic and interactive drawing experience.
 
-<!-- LIVE DEMO -->
+![image](https://github.com/TuyishimireEric/Etch-a-sketch/assets/102757126/633ad487-d0c2-406a-8d20-3a6b37a6ab77)
+
+# 🧾 Features
+Drawing: Users can use their cursor or touchpad to draw on the virtual canvas.
+Clean: The "Clean" button allows users to clear the selected.
+Reset: The "Back" button enables users to undo their last drawing action, helping them correct mistakes or remove unwanted lines.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://tuyishimireeric.github.io/rock-paper-scissor/)
+- [Live Demo Link](https://tuyishimireeric.github.io/Etch-a-sketch/)
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-```sh
- npm install node
-```
-
-
-### Setup
-
-Clone this repository to your desired folder:
-
-```sh
-  git clone git@github.com:TuyishimireEric/rock-paper-scissor.git
-```
-### Open
-- Open the project with live server
-- press **F12** to get to your browser console
-- Start playing 😎
+- Clone the repository or download the source code.
+- Open the index.html file in a web browser.
+- Use your mouse or touchpad to draw on the canvas.
+- Click the "Clean" button to clear the canvas.
+- Click the "Back" button to reset the drawing.
 
 ## 👥 Author <a name="authors"></a>
 
@@ -79,7 +67,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/TuyishimireEric/rock-paper-scissor/issues).
+Feel free to check the [issues page](https://github.com/TuyishimireEric/Etch-a-sketch/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
