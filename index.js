@@ -17,7 +17,7 @@ const updateScreen=()=>{
     drawingBoard.style.setProperty("grid-template-columns", `repeat(${44 - (zoom * 4)}, auto)`);   
 }
 
-drawingBoard.addEventListener('click', (e)=>{
+drawingBoard.addEventListener('mouseover', (e)=>{
     const square = e.target;
     
     if(drawing){
